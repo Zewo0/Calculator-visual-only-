@@ -1,0 +1,1 @@
+calcscr.bckp.dart to poprzednia wersja kalkulatora w ktorej zamiast elevated button uzylem container. Nowa wersja ma guziki ktore nie maja zanego zastosowania oprocz tego ze wyswietla sie w konsoli co zostalo nacisniete.
